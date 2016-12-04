@@ -1,0 +1,3 @@
+happybase
+libmysqlclient-dev
+python-dev
